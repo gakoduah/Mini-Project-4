@@ -11,7 +11,15 @@
 This project evaluates the effectiveness of **delta** and **vega hedging** strategies under stochastic volatility models, providing actionable insights for quantitative finance professionals. Through Monte Carlo simulations and advanced visualizations, we compare hedging performance across different market regimes.  
 
 ---
-
+## 🔍 How to Access
+1. **Download** the ZIP file
+2. **Extract** to any folder
+3. **Open** `Mini Project 4.ipynb` with:
+   - Jupyter Notebook/Lab
+   - VS Code with Jupyter extension
+   - Google Colab (upload extracted file)
+  
+---
 ## 🔍 Key Features  
 
 ### 📈 Volatility Models Implemented  
